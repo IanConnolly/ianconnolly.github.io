@@ -12,9 +12,9 @@ All code is available under the
 [MIT License](http://github.com/NSNO/nsno.github.io/blob/master/LICENSE).
 All content is available under
 the [CC BY-NC](https://creativecommons.org/licenses/by-nc/4.0/legalcode). If,
-for whatever reason, you want a commercial waiver, feel free to contact me at
-ian [at] {the-url-in-the-
-[CNAME](http://github.com/NSNO/nsno.github.io/blob/master/CNAME)}
+for whatever reason, you want a commercial waiver,
+feel free to contact me at ian [at]
+{url-in-the-[CNAME](http://github.com/NSNO/nsno.github.io/blob/master/CNAME)}.
 
 Theme originally based on [Lagom](http://github.com/swanson/lagom), by
  [Matt Swanson](http://www.mdswanson.com/).
