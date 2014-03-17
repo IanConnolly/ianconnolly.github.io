@@ -1,0 +1,2 @@
+green: #4BB74C,
+purple: #6F5499,

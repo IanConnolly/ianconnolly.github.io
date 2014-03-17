@@ -1,0 +1,16 @@
+---
+layout: post
+title: Blogging, motivation, and why I'm starting to write
+category: posts
+---
+
+
+I used to read a lot. When I was younger, I could easily read 3-4 books a week. This habit continued well into secondary school, though it started to slow as I got older. My love of reading mapped well into my interests in English and History in school. Those were easily my favourite subjects. I'd 'procrastinate' other subjects by reading my set texts and coursebooks in those subjects. I'd come home from school and start reading, and then suddenly it would be 3 a.m. and I'd turn over to the very last page and suddenly realised that I'd gotten stuck down yet another rabbit hole. I didn't care - I loved it.
+
+Since I started studying Computer Science 2-and-some-change years ago, I've stopped reading like I did before. Now I read text books, code, Hacker News, Reddit and Twitter. I don't think this is an uncommon story - a lot of people I talk to say the same. I don't even have to write anymore - I think I've written a total of two essays since I started college. I spend a lot of time typing, but it's so assisted by auto-completion that I rarely even have to type out a variable name more than once - let alone a sentence. I spend so much time communicating via Twitter that I'm noticing that I struggle to express things in a non-bitesized manner anymore. 
+
+This change in reading/writing habits isn't necessarily a bad thing. For one, what I read now is productive. I'm learning things directly applicable to engineering and technology, which I love. I genuinely love what I do now, and for that I'm forever grateful to my old History teacher, [Donal O'Mahony](http://donalomahony.edublogs.org/), for convincing me to follow my love of computers rather than history into third-level. 
+
+But one thing negative thing I've noticed is that my written communication skills aren't nearly as good as they used to be. Even writing this, it feels stilted and forced. I've got a clear idea in my head about what I want to say, and the preceding 300 words aren't it. It's so frustrating to want to communicate something and to just be incapable of doing so. 
+
+So I've decided to start writing more. This is somewhat inspired by Jennifer Dewalt's excellent [180-websites-in-180-days](http://jenniferdewalt.com/) series. I won't be doing this daily (I'm aiming for one a week) but her motivation to do something out of her comfort zone has inspired me. I'm not sure how personal this will get, or even if the standard of writing will improve, but hopefully this will start to 'sound' more like me over time.  
