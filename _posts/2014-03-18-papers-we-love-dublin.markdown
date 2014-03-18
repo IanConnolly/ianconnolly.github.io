@@ -18,7 +18,7 @@ and the growing tech/startup scene, and I think that sort of cross-pollination
 can only be good for both communities.
 
 I've only recently discovered PWL, but I'd love to help a Dublin one get off the
-ground. Unfortunately I'm heading to SF in a few weeks so it'd be a while
+ground. Unfortunately I'm heading to SF for the summer so it'd be a while
 before I could be properly involved in setting something up, but I'm more than
 happy to just help connect interested people and try and get a core group
 going for the moment.
