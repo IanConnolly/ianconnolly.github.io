@@ -5,16 +5,16 @@ description: Exploitative Internships in Dublin
 category: posts
 ---
 
-It's internship season and every CS undergrad is scrambling to find work. I've just
-see one of my friends just got a fairly derisory offer. To be honest, derisory
-doesn't really cut it. It was downright exploitative. Less than half the
-minimum wage. The excuse: "We're an early stage start-up and this is all we
+It's internship season and every CS undergrad is scrambling to find work. I've
+just see one of my friends just got a fairly derisory offer. To be honest,
+derisory doesn't really cut it. It was downright exploitative. Less than half
+the minimum wage. The excuse: "We're an early stage start-up and this is all we
 can afford".
 
 Let's just get something straight: Employing someone and not paying
 them a fair wage is exploitative. There is not a single situation where it is
 acceptable to pay someone less than minimum wage for work. Not for 'training',
-not for their 'portfolio' and **not** for 'experience'.
+not for their 'portfolio', and **not** for 'experience'.
 
 And it most definitely **is** employment by the way, don't attempt to spin
 this by saying 'internships are for training'. If someone is shipping production
@@ -22,29 +22,21 @@ code for you then they are a fixed-term employee and should be compensated
 as such.
 
 This practice is particularly endemic in the nascent Dublin startup scene, where
-new companies feel employment laws[[1]](http://www.ictu.ie/internrights/) (or just morals in general) don't apply to
-them. All that matters to them, and their investors, is growth -  and it doesn't
-matter who they exploit along the way. They sell the myth of 'experience', so
-they can get a student to build their MVP for free.
-
-The myth is damaging. I've got friends, talented friends, who feel that they're
-not as good as other people because they haven't interned. There's fierce
-competition for paid internships (not only because they're paid, but because
-they're generally with great companies) and there just aren't enough to go
-around. They're left with a bleak choice: work for free in tech and gain the
-precious 'experience' that employers say is so vital, or find an actual paying
-job so that they don't go further in debt before they even graduate. Dublin
-startups are exploiting the fear that these students have of not finding
-employment when they graduate for their own gain.
+new companies feel [employment laws](http://www.ictu.ie/internrights/)
+(or just morals in general) don't apply to them. All that matters to them,
+and their investors, is growth -  and it doesn't matter who they exploit along
+the way. They sell the myth of 'experience', so they can get a student to build
+their MVP for free. Dublin startups are exploiting the fear that students have
+of not finding employment at graduation for their own gain.
 
 I'm incredibly disappointed in companies that engage in this behaviour. They
 talk about _changing the world_ (barf) when all they are doing is undermining
 centuries of effort in the labour movement and taking advantage of vulnerable,
 cash-strapped students to help build their dream and fortune. I'm also
-incredibly disappointed in the incubators, accelerators, investors and Enterprise
-Ireland who tolerate, profit from, and implicitly encourage this behaviour
-by not banning it. The fact that some of these companies are funded partially
-with public money is just the icing on the cake.
+incredibly disappointed in the incubators, accelerators, investors and
+Enterprise Ireland who tolerate, profit from, and implicitly encourage this
+behaviour by not banning it. The fact that some of these companies are funded
+partially with public money is just the icing on the cake.
 
 People talk about the lack of skilled engineering graduates in Ireland.
 Well, apologies for my language, but how the fuck do you expect people to gain
@@ -53,7 +45,7 @@ feed themselves? Only a select, lucky few can work for 'experience' rather than
 the more conventional 'money'.  Are we honestly going to turn the fledgling
 tech industry in Ireland into another bastion of private school privilege?
 Where's your beloved meritocracy now? Beneath the hoodies, the buddha bags, and
-the free beer, Irish tech companies becoming every bit as bad as the other
+the free beer, Irish startups becoming every bit as bad as the other
 industries that they scoff at. Perhaps worse - at least the rest don't pretend
 to be 'cool'.
 
@@ -65,21 +57,17 @@ then don't attempt to hire someone. And if you do, we need to make it clear
 that there will be very public consequences.
 
 I know that these practices are not limited to tech, but it's what I have the
-most experience in. Though my own experiences with an internship in a semi-state
-and with a great Irish tech company have been really positive, I've most definitely
-been one of the lucky ones.
+most experience in. Though my own experiences with internships in a semi-state
+and with a great Irish tech company have been really positive, I've most
+definitely been one of the lucky ones.
 
 I know the [USI](http://usi.ie/president/job-bridge-broken/)
 are campaigning against JobBridge, but I'd love to see a wider movement
 against exploitation by private enterprises from both the USI and individual
 student unions.
 
-
-Oh and on a completely unrelated note, I have an incredibly talented iOS developer
-friend looking for an internship - so holler at ```ian@connolly.io```
-if you're hiring.
-
 <hr>
 
-<sub>[[1]](http://www.ictu.ie/internrights/) - Intern Rights, the Irish Congress of
-Trade Unions</sub>
+Oh and on a completely unrelated note, I have an incredibly talented iOS
+developer friend looking for an internship - so holler at ```ian@connolly.io```
+if you're hiring.
