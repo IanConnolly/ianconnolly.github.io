@@ -27,7 +27,7 @@ code is available on [Github](http://github.com/NSNO).
 This site is built
 with Jekyll using a hacked version of the
 [Lagom](https://github.com/swanson/lagom) theme, and hosted
-on Github Pages (thanks guys <3). The repository lives
+on Github Pages (thanks guys &lt;3). The repository lives
 [here](http://github.com/NSNO/nsno.github.io).
 
 Technically, I'm interested in functional programming, distributed systems,
