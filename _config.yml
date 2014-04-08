@@ -1,4 +1,3 @@
-# General Jekyll Config
 pygments: true
 url: http://connolly.io
 lsi: false
@@ -16,31 +15,17 @@ links:
   - title: Talks
     url: /talks/
 
-# Theme customization - please change from the defaults!
 theme:
-  # Color for top bar, links, etc
   highlight_color: '#6F5499'
 
-  # Profile links on the left sidebar, leave blank to ignore
   social:
     github: NSNO
-    #bitbucket: philipj
-    #hacker_news: imc
-    #stackexchange: 348619
-    #stackoverflow: 348619
     twitter: ianconnolly
-    #facebook: zuck
-    #tumblr: animalygifs
-    #linkedin: philipjagielski
-    #gplus: 110552447039675960964
 
-  # "Hi, I'm _______"
   name: Ian Connolly
   email: ian@connolly.io
   tagline: "the web. lambdas. cheesy pop-punk."
 
-  # Google Analytics key, leave blank to ignore
   google_analytics_key: UA-45598612-1
-
-  # Toggle "Postings are my own" disclaimer in footer
+  
   show_disclaimer: true

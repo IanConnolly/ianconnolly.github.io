@@ -3,7 +3,7 @@ layout: post
 title: A Lazy Evaluation
 description: Why I Find Learning Haskell Hard
 tagline: Why I Find Learning Haskell Hard
-category: posts
+category: personal
 ---
 
 Haskell is really hard to learn. I've realised as much after taking a semester-long course in it, and after many evenings spent afterwards trying to learn more.

@@ -2,7 +2,7 @@
 layout: post
 title: Start
 description: Humble beginnings...
-category: posts
+category: personal
 ---
 
 So I finally got around to putting this up.

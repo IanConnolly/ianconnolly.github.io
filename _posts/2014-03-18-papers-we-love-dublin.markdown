@@ -2,7 +2,7 @@
 layout: post
 title: Papers We Love... Dublin?
 description: Papers We Love... Dublin?
-category: posts
+category: personal
 ---
 
 

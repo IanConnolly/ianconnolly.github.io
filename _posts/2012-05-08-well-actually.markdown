@@ -2,7 +2,7 @@
 layout: post
 title: "Well, actually..."
 description: This piece was originally posted on Medium on May 8th, 2012.
-category: posts
+category: personal
 ---
 
 _This piece was originally posted on [Medium](http://medium.com) on May 8th, 2012._
