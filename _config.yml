@@ -2,6 +2,7 @@ pygments: true
 url: http://connolly.io
 lsi: false
 exclude: [LICENSE, CNAME, colors.txt, README.md, .gitignore]
+markdown: kramdown
 
 permalink: /posts/:title
 
@@ -27,5 +28,5 @@ theme:
   tagline: "the web. lambdas. cheesy pop-punk."
 
   google_analytics_key: UA-45598612-1
-  
+
   show_disclaimer: true
