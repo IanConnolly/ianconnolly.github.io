@@ -1,0 +1,65 @@
+==================================================================
+https://keybase.io/ianconnolly
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://connolly.io
+  * I am ianconnolly (https://keybase.io/ianconnolly) on keybase.
+  * I have a public key with fingerprint E3C4 5B87 E6EE 2783 96DB  D893 E47B AD4A 405F 38B2
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "e3c45b87e6ee278396dbd893e47bad4a405f38b2",
+            "host": "keybase.io",
+            "key_id": "E47BAD4A405F38B2",
+            "uid": "0004ab6cc52dbb0c46978df03217ac00",
+            "username": "ianconnolly"
+        },
+        "service": {
+            "hostname": "connolly.io",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1398621315,
+    "expire_in": 157680000,
+    "prev": "0af5a012376204cecb201cfd39f0ff2f84ad35355d8d99019205b286533bc511",
+    "seqno": 10,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG/MacGPG2 v2.0.22 (Darwin)
+Comment: GPGTools - https://gpgtools.org
+
+owE1kVtIFGEUx3e9kqFdDCPUsK8LlKZzvywh3jEJQsoSYRnmm/lmd1Bn1tlx1TaJ
+qActSimfpAdTAskNzILKSxShaSWEZb0Y3awULcTsokQ2Y/r08Z3/7/zP+XOaY8Md
+Mc7J4I2iLIHrcT59sAAdR9x5Z4IA6nIdcAVBOVp5FFXzIMNnqJoJXACREkVDjkUM
+QgTLkTwjQ5njSUSxUJQpkcJoheQgAdKAV/fbHZYNFP0oXdWtmvURVNmq5lNsTnYe
+lW3xBSSXY/PVKwKGYZQIGUmiCRlCTKIYnuVkBSMJnBUlDLNBPzI0sRJZtCpqkq5p
+ekVFHahPA5YQUCVkr21PX4XWiP8r+Azd1CW9whK8pulz2X1mnc8GaxAUVi0EqGqy
+ldxqCCDDr+oacOEWKZmq7YmTPMcQOInTaQDV+lQDCapN0CzDWQkwewwK2HFEhRYx
+nCBZhsAoCUmQwHBJkUlewRSFUDhKlEmapGmZk3kew3kCoyHBMTRJQonGcWCHqtJ0
+y9syNUWP5elXPZpoVhsI1Dc6kyIczhhHVGSYfTxHzLqNayf9NBL9N32m8vNtoQzO
+CamZRW8mBkvc829rF6c7+uUTqe4/9waoodKy+UgvmEq4s33syuiXBnd0yrCx3NKh
+v3zkD9/rfTwhBwYSsi/UbHpybuah43uhI7pNaDW37Db7Dl33hILO5vvxQ0M9Sfu7
+fTs+DFSHlM7Z8sZJ59Ts8+59r/aEQH8XvbAr5+p0X9v4tqWzzw5+q+rMKOamE72X
+5wqlU7/ulrbPXoo8+vHwrajR8cHY0PGMkoT1AeGdFBdx7MDij8z4m6gg2dX9fun8
+zg2tk+rixfbNyb0juSjLxLdeq085vdzSO5r7taxp+GRibFJ+XFPxi0x8jCf0BjPr
+Nf3zdyDsHw==
+=mWM7
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ianconnolly
+
+==================================================================

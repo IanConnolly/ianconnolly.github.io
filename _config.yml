@@ -2,6 +2,7 @@ pygments: true
 url: http://connolly.io
 lsi: false
 exclude: [LICENSE, CNAME, colors.txt, README.md, .gitignore]
+include: [".well-known"]
 markdown: kramdown
 
 permalink: /posts/:title
