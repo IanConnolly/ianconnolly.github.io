@@ -22,13 +22,13 @@ I like to teach and I've given introductory workshops on
 give are hosted [here](http://connolly.io/talks).
 
 I like craft beer, good food, the open web and open-source. All of my F/OSS
-code is available on [Github](http://github.com/NSNO).
+code is available on [Github](http://github.com/IanConnolly).
 
 This site is built
 with Jekyll using a hacked version of the
 [Lagom](https://github.com/swanson/lagom) theme, and hosted
 on Github Pages (thanks guys &lt;3). The repository lives
-[here](http://github.com/NSNO/nsno.github.io).
+[here](http://github.com/IanConnolly/ianconnolly.github.io).
 
 Technically, I'm interested in functional programming, distributed systems,
 and Cool Web Things™.
