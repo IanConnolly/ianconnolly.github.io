@@ -63,6 +63,12 @@ Follow me:
   </a>
   {% endif %}
 
+  {% if site.theme.social.flickr %}
+  <a title="{{ site.theme.name }} on Flickr" href="https://flickr.com/photos/{{ site.theme.social.flickr }}">
+    <i class="fa fa-flickr"></i>
+  </a>
+  {% endif %}
+
   <a title="RSS feed" id="rss" href="/atom.xml">
     <i class="fa fa-rss-square"></i>
   </a>
