@@ -7,7 +7,7 @@ category: mozilla
 
 I'm mid-way through my 4th week interning on Mozilla's Release Engineering team
 in San Francisco. I'll save all of the _oh my god San Francisco_ and more
-personal Mozilla-related  flailing for another blog post - probably nearer to
+personal Mozilla-related flailing for another blog post - probably nearer to
 when I'm headed home. But I wanted to begin making a stab at documenting
 what I'm doing work-wise while I'm out here, in the spirit of
 the Mozilla mission.
@@ -36,8 +36,10 @@ writing a Puppet module for my colleague
 what happens pre-flight for our build &amp; test jobs on our
 slaves. A huge amount of resources are wasted and complexity added &amp;
 duplicated by having these checks inside our build and test jobs rather than
-managed externally. Runner v1.0 is being deployed tomorrow, and all going well
-I should be starting work on Runner N+1 next week.
+managed externally. More resources available means everything else runs faster,
+smoother, and cheaper - making Mozilla that little bit more effective.
+Runner v1.0 is being deployed this week, and all going well I should be
+starting work on Runner N+1 next week.
 
 Concurrently to this, I started a rebuild of
 [Clobberer](https://wiki.mozilla.org/ReleaseEngineering/Applications/Clobberer).
