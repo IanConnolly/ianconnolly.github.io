@@ -58,7 +58,7 @@ The new application is structured as a blueprint on the new
 [Releng API](https://github.com/mozilla/build-relengapi) project which
 [Dustin](http://code.v.igoro.us/) introduced
 [yesterday](http://code.v.igoro.us/posts/2014/06/Introducing-Relengapi.html).
-If you've ever spoken to me about development, you've probably know that I
+If you've ever spoken to me about development, you probably know that I
 love a good HTTP API written in Flask, so I was super enthusiastic when I heard
 about the project and am glad to be helping out. I'm also building out a
 [template/example project](https://github.com/IanConnolly/build-relengapi-template)
