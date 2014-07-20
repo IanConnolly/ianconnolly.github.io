@@ -7,9 +7,12 @@ tags: [about]
 
 I'm a CS student at Trinity College, Dublin.
 
-I've interned for a big non-tech company, a rapidly growing tech company, and
-helped build a [mobile games platform](http://github.com/tcd-tophat)
-with my mates. I used to be chair of the
+I'm currently in San Francisco interning for Mozilla.
+
+Previously, I've interned for a big non-tech company, a rapidly growing tech
+company, and helped build a
+[mobile games platform](http://github.com/tcd-tophat) with my mates.
+I used to be chair of the
 [Dublin University Computer Science Society](http://ducss.ie).
 
 I'm a big fan of the Dublin tech scene and I help organise events like
