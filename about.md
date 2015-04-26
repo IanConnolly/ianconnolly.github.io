@@ -23,7 +23,7 @@ other talks I've given [here](http://connolly.io/talks).
 
 I'm interested in functional programming, distributed systems,
 and Cool Web Things™. I generally stick of all my hacky projects
-related to these things up on [Github](http://github.com/IanConnolly) mainly
+related to these things up on [Github](http://github.com/IanConnolly)
 as a warning to anyone who might want to hire me.
 
 I [tweet a lot](http://twitter.com/IanConnolly).
