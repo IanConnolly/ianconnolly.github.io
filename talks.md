@@ -17,4 +17,4 @@ Mar 2014, [UCD Investors & Entrepreneurs Society](http://www.ucdie.com/)
 * [A Running Start](http://connolly.io/slides/a-running-start) - Aug 2014, Mozilla
 * [Interning at Mozilla](http://connolly.io/slides/mozilla-intern) - Oct 2014, [DUCSS](http://ducss.ie)
 * [Interviews: How to Ace a Technical One](http://connolly.io/slides/tech-interview) - Oct 2014, [DUCSS](http://ducss.ie)
-* [Distributing Computatin in Haskell](http://connolly.io/slides/fyp) - Apr 2015, School of Computer Science and Statistics, Trinity College, University of Dublin
+* [Distributing Computation in Haskell](http://connolly.io/slides/fyp) - Apr 2015, School of Computer Science and Statistics, Trinity College, University of Dublin
