@@ -12,8 +12,6 @@ links:
     url: /about/
   - title: Posts
     url: /posts/
-  - title: Friends
-    url: /friends/
   - title: Talks
     url: /talks/
 
@@ -27,7 +25,7 @@ theme:
 
   name: Ian Connolly
   email: ian@connolly.io
-  tagline: "the web. lambdas. cheesy pop-punk."
+  tagline: "vim. cats. brunch."
 
   google_analytics_key: UA-45598612-1
 

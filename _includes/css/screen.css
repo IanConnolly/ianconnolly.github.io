@@ -13,12 +13,11 @@ body {
   color: #222222;
   line-height: 24px;
   margin: 0;
-  border-top: 7px solid {{ site.theme.highlight_color }};
 }
 
 h1, h2, h3, h4, h5, h6 {
   color: #181818;
-  font-family: "open sans", sans-serif;
+  font-family: "Fira Mono", sans-serif;
   font-weight: 600;
 }
 
@@ -48,17 +47,31 @@ ul {
 }
 
 a {
-  color: {{ site.theme.highlight_color }};
-  text-decoration: none;
-}
-
-a:hover {
-  color: {{ site.theme.highlight_color }};
   text-decoration: underline;
 }
 
 a:visited {
-  color: {{ site.theme.highlight_color }};
+  color: #aaa;
+}
+
+.no-dec {
+  text-decoration: none;
+}
+
+.no-dec:visited {
+  color: #333;
+}
+
+.do-fade:visited {
+  color: #aaa;
+}
+
+.dont-fade:visited {
+  color: #333;
+}
+
+a:hover {
+  text-decoration: underline;
 }
 
 table {
@@ -142,9 +155,13 @@ nav hr {
   border: none;
 }
 
+.page-title {
+  display: none;
+}
+
 .sidebar {
   padding-top: 25px;
-  font-family: "open sans", sans-serif;
+  font-family: "Fira Mono", sans-serif;
 }
 
 .sidebar p {
@@ -156,7 +173,7 @@ nav hr {
 }
 
 .content {
-  font: 16px/22px "open sans", sans-serif;
+  font: 16px/22px "Fira Mono", sans-serif;
   font-weight: normal;
   border-left: 1px solid #DDD;
   padding-left: 40px;
@@ -211,7 +228,7 @@ nav hr {
 }
 
 i.fa-hn {
-  font-family: "open sans", sans-serif;
+  font-family: "Fira Mono", sans-serif;
   text-align: center;
   font-size: 18px !important;
   position: relative;

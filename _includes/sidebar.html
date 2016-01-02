@@ -1,22 +1,15 @@
 <nav>
-  <h1>Hi.</h1>
+  <h1>hi.</h1>
   <a href="/">
     <img src="/logo.png" id="logo" alt="Blog logo"/>
   </a>
-  <h2>I'm <a href="/">{{ site.theme.name }}</a>.</h2>
+  <h2>i'm <a class="dont-fade" href="/">ian</a>.</h2>
   <hr/>
   <ul>
-      <p>the web. lambdas. cheesy pop-punk.</p>
-  <a href="/about">About</a>
+    <p>{{ site.theme.tagline }}</p>
+  <a class="no-dec" href="/about">about</a>
   <hr />
-  <a href="/friends">Friends</a>
-  <hr />
-  <a href="/talks">Talks</a>
+  <a class="no-dec" href="/talks">talks</a>
   <hr/>
-  <div>
-    <div id="social">
-      {% include social.html %}
-    </div>
-  </div>
   </ul>
 </nav>
