@@ -197,7 +197,7 @@ nav hr {
 }
 
 #home h2 {
-  color: {{ site.theme.highlight_color }};
+  color: #333;
 }
 
 #logo {
@@ -223,7 +223,6 @@ nav hr {
 
 #stalker a:hover {
   text-decoration: none;
-  color: {{ site.theme.highlight_color }};
 }
 
 i.fa-hn {
