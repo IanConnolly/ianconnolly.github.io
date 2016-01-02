@@ -20,10 +20,15 @@ I studied CS at Trinity College, Dublin and I used to be chairperson of the
 I live in San Francisco, California with my fiancée Lara and our two cats, Seamus &amp;
 Heathcliff.
 
-_note from adult-ish ian:_ I've had a personal site online in some capacity for nearly 4 years now.
-A lot has happened in that time, and I've grown up, at least partially.  Much of the content here
-seems like it was written by a different person. I thought about deleting it all and starting from
-scratch a couple of times, but decided against it. I don't think the words written here
-accurately reflect me now, however I think they did reflect me when they were written. For better
-or worse I think having a public reminder of that is a solid check against my/future-me's head
-from inflating too much again.
+_note from adult-ish ian:_ I've had a personal site online in some capacity for
+nearly 4 years now.  A lot has happened in that time, and I've grown up,
+at least somewhat (I have a beard now!).
+
+Much of the content here seems like it was written by a different person and
+I don't think it accurately reflects who I am now. I thought about deleting 
+it all and starting from scratch a couple of times, but eventually decided 
+against it. I don't particularly like or relate to the me who wrote these,
+but I do think the posts reflect who I was when they were written.
+
+For better or worse I think having a public reminder of who I was before
+is a solid check against my/future-me's head from inflating too much again.
