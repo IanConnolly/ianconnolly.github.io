@@ -5,7 +5,7 @@ title: about me
 tags: [about]
 ---
 
-I'm a software engineer working at [Scribd](http://scribd.com)
+I'm a software engineer at [Scribd](http://scribd.com)
 working on backend-y things in Ruby/Rails.
 
 Before I graduated, I interned with Mozilla's
