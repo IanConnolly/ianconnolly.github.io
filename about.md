@@ -17,8 +17,16 @@ and an [enterprise field-management SaaS company](https://www.crunchbase.com/org
 I studied CS at Trinity College, Dublin and I used to be chairperson of the
 [Dublin University Computer Science Society](http://ducss.ie).
 
-I live in San Francisco, California with my fiancée Lara and our two cats, Seamus &amp;
-Heathcliff.
+I currently live in San Francisco, California with my fiancée Lara and 
+our two cats, Seamus &amp; Heathcliff.
+
+In my side-project time, I play around with [Rust](http://rust-lang.org) and
+work on getting better/faster/more comfortable with
+[Vim](https://github.com/IanConnolly/dotfiles/blob/master/vimrc). I use a
+[programmable split keyboard](https://www.indiegogo.com/projects/ergodox-ez-an-incredible-mechanical-keyboard)
+because I'm a glutton for punishment who wanted to re-learn how to type (_as a hobby! ohgodwhatswrongwithme_).
+
+I like my software simple, fast, and reliable. Inexplicably, I currently use a Mac.
 
 _note from adult-ish ian:_ I've had a personal site online in some capacity for
 nearly 4 years now.  A lot has happened in that time, and I've grown up,
