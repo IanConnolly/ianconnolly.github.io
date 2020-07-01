@@ -1,13 +1,66 @@
----
-layout: default
-title: posts
----
+<html>
+  <head>
 
-<div id="home">
-  <h2 class="page-title">posts</h2>
-  <ul id="blog-posts" class="posts">
-    {% for post in site.posts %}
-      <li><span>{{ post.date | date_to_string }} &raquo;</span><a class="no-dec do-fade" href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
-</div>
+  <meta name="viewport" content="width=device-width">
+  <style>
+      body {
+        font-family: "Liberation Sans", Arial, sans-serif;
+        background-color: #fef6e4;
+        line-height: 1.5;
+      }
+      h1, h2, h3, h4, h5 {
+        color: #181818;
+      }
+      p {
+        color: #2e2e2e
+      }
+      main {
+        max-width: 70ch;
+        padding: 2ch;
+        margin: auto;
+      }
+      header {
+        margin-bottom: 1.5rem;
+      }
+      h1 {
+        margin-bottom: .5rem;
+      }
+      a {
+        text-decoration: none;
+        color: #8bd3dd;
+        outline: 0;
+      }
+      a:hover {
+        text-decoration: underline;
+      }
+      table {
+        width: 100%;
+      }
+      td {
+        text-align: center;
+      }
+      </style>
+      <title>me</title>
+  </head>
+  <body>
+    <main>
+      <article>
+        <header>
+          <h1>hi, I'm Ian</h1>
+        </header>
+        <p>I'm an engineering manager &amp; leader in San Francisco.</p>
+        <p>I help teams &amp; organizations building hard software<sup><a href="https://blog.ledwards.com/hard-software-24259a5b5d7a">^</a></sup> succeed.</p>
+        <p>I'm currently interested in privacy-preserving ML/AI, building high-performing &amp; sustainable teams, and tightening the feedback loop between research and practice.</p>
+        <p>You can contact me via email at first name @ this domain.</p>
+        <table>
+          <tr>
+            <td><a href="https://twitter.com/IanConnolly">twitter</a>
+            <td><a href="https://www.linkedin.com/in/iconnolly/">linkedin</a>
+            <td><a href="https://github.com/IanConnolly">github</a>
+          </tr>
+        </table>
+
+      </article>
+    </main>
+  <body>
+</html>
